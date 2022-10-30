@@ -1,0 +1,11 @@
+SECTION 0x10
+TST R5
+
+SECTION 0x20
+TST &0
+
+SECTION 0x30
+label:
+
+SECTION 0x40
+TST label

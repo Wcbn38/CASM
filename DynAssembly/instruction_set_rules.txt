@@ -1,0 +1,4 @@
+'#': constant
+'&': address
+'\0': stub -> useless at this stage
+'@': register

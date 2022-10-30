@@ -1,0 +1,1 @@
+asm inputFile [...] [-c assemblyInstructionListFile] [-o outputFileName[<baseAddress:range>]]
