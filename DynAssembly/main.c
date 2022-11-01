@@ -2,7 +2,6 @@
 
 #ifndef DEBUG
 
-//TODO: test
 int main(int argc, char** argv)
 {
 	//COMPILATION VARIABLES
